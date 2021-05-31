@@ -1,0 +1,27 @@
+h1 {
+    color: #1eae98;
+    font-family: monospace;
+}
+
+h2{
+    color:#ffb26b;
+    
+}
+h3 {
+    color:#ffb26b;
+}
+a {
+    color: #f54748;
+    font-family: monospace;
+    font-size: large;
+}
+
+p {
+    font-size: large;
+}
+
+.list-text {
+    list-style-position: inside;
+    color: #ffb26b;
+   
+}
